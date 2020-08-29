@@ -42,3 +42,12 @@ Un enlace covalente entre dos átomos se produce cuando estos átomos se unen, p
 
 De esta forma, los dos átomos comparten uno o más pares electrónicos en un nuevo tipo de orbital, denominado orbital molecular. Los enlaces covalentes se producen entre átomos de un mismo elemento no metal, entre distintos no metales y entre un no metal y el hidrógeno.
 ....................................................................................................................................
+Estructura primaria: La estructura tridimensional de una proteína normal en su entorno fisiológico normal está determinada por la totalidad de las interacciones interatómicas y, por lo tanto, por la secuencia de aminoácidos la composición de aminoácidos que la conforman.
+
+RETO II: Proponé una forma de expresar la información contenida en la estructura
+primaria de las proteínas usando tipos de datos de los lenguajes de programación
+que conocés.
+
+La estructura primaria de una proteína es la llamada cadena de aminoácidos, que se conectan con uno a la izquierda y otro a la derecha. 
+Esto se podria representar con una tupla, con una posición con un puntero a la cadena de la izquierda, y la otra para la derecha.
+....................................................................................................................................
