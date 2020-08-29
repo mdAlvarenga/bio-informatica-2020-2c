@@ -34,3 +34,11 @@ Muchas formas de radiación tales como la ultravioleta y la nuclear y compuestos
 
 El ARN (ácido ribonucleico), no posee la estructura espacial "doble hélice", sino que se presenta en moléculas de una sola cadena que adopta diversas formas. Su función principal está vinculada a la síntesis de proteínas codificadas y dirigida por el ADN.
 ....................................................................................................................................
+Definición de Covalente: 
+-Unión es un término que deriva del latín, concretamente de “unus”, que puede traducirse como “uno”.
+-Covalente, por otro lado, también procede del citado latín. En su caso, es fruto de la suma de tres componentes del mismo: el prefijo “con-”, que es equivalente a “junto”; el verbo “valere”, que puede traducirse como “valer”; y el sufijo “-nte”, que se utiliza para indicar al agente.
+
+Un enlace covalente entre dos átomos se produce cuando estos átomos se unen, para alcanzar el "octeto estable", y comparten electrones del último nivel1​ (excepto el hidrógeno que alcanza la estabilidad cuando tiene 2 electrones). La diferencia de electronegatividad entre los átomos no es lo suficientemente grande como para que se produzca una unión de tipo iónica. Para que un enlace covalente se genere es necesario que la diferencia de electronegatividad entre átomos sea menor a 1,7.
+
+De esta forma, los dos átomos comparten uno o más pares electrónicos en un nuevo tipo de orbital, denominado orbital molecular. Los enlaces covalentes se producen entre átomos de un mismo elemento no metal, entre distintos no metales y entre un no metal y el hidrógeno.
+....................................................................................................................................
