@@ -3,7 +3,7 @@ Repo para la materia de Introducción a la Bioinformática de la UNQ
 
 ## Trabajo práctico 1. 
 
-RETO I: ¿Podrías buscar un ejemplo de macromoléculas que almacenen información sobre la ‘identidad’ de un organismo dado?
+### RETO I: ¿Podrías buscar un ejemplo de macromoléculas que almacenen información sobre la ‘identidad’ de un organismo dado?
 
 El ADN es una macromolécula que almacena información sobre la "identidad".
 ADN es la sigla con que se conoce el ácido desoxirribonucleico, éste, conjuntamente con el ARN (ácido ribonucleico) son designados con el nombre general de ácidos nucleicos. Se localizan en el núcleo (ADN) y en el citoplasma (ARN) de las células animales y vegetales y representan los componentes fundamentales del sistema genético que dirige el metabolismo y la autoconservación de las células y los organismos.
@@ -45,7 +45,7 @@ De esta forma, los dos átomos comparten uno o más pares electrónicos en un nu
 
 Estructura primaria: La estructura tridimensional de una proteína normal en su entorno fisiológico normal está determinada por la totalidad de las interacciones interatómicas y, por lo tanto, por la secuencia de aminoácidos la composición de aminoácidos que la conforman.
 
-RETO II: Proponé una forma de expresar la información contenida en la estructura
+### RETO II: Proponé una forma de expresar la información contenida en la estructura
 primaria de las proteínas usando tipos de datos de los lenguajes de programación
 que conocés.
 
@@ -53,10 +53,18 @@ La estructura primaria de una proteína es la llamada cadena de aminoácidos, qu
 Esto se podria representar con una tupla, con una posición con un puntero a la cadena de la izquierda, y la otra para la derecha.
 ....................................................................................................................................
 
-
-RETO III: ¿ En qué tipo de datos podrías expresar la información de la estructura
+### RETO III: ¿ En qué tipo de datos podrías expresar la información de la estructura
 terciaria proteica?
 
 Si no entendí mal, lo mismo. Dado que se conectan en las puntas entre las hlice alfa y hojas plegadas. Me falta entender como representar las interacciones y repulsiones entre esas estructuras secundarias, que provocan esas "formas" en el espacio.
+
+-------------------------------------------------------------------------------------------------------------------------------------
+
+### RETO IV: Rosalind Franklin es una científica muy relevante, que tuvo menos reconocimiento del merecido. 
+¿Cuáles fueron sus contribuciones en este campo?
+Propuso la estructura del ADN, basada en imágenes de la molécula a través de la técnica de disfracción de rayos x.
+
+¿Qué nos cuenta su historia acerca del mundo de la ciencia?
+Machismo es la palabra que lo resume. Pero también esta frase me parece interesante "Así es de enigmático a veces el lenguaje científico, además de ser un ejemplo impagable de cómo subestimar el trabajo de otro" a pesar de no saberlo facticamente, es lo que se desprende.
 
 -------------------------------------------------------------------------------------------------------------------------------------
