@@ -45,26 +45,29 @@ De esta forma, los dos átomos comparten uno o más pares electrónicos en un nu
 
 Estructura primaria: La estructura tridimensional de una proteína normal en su entorno fisiológico normal está determinada por la totalidad de las interacciones interatómicas y, por lo tanto, por la secuencia de aminoácidos la composición de aminoácidos que la conforman.
 
-### RETO II: Proponé una forma de expresar la información contenida en la estructura
-primaria de las proteínas usando tipos de datos de los lenguajes de programación
-que conocés.
+### RETO II: Proponé una forma de expresar la información contenida en la estructura primaria de las proteínas usando tipos de datos de los lenguajes de programación que conocés.
 
 La estructura primaria de una proteína es la llamada cadena de aminoácidos, que se conectan con uno a la izquierda y otro a la derecha. 
 Esto se podria representar con una tupla, con una posición con un puntero a la cadena de la izquierda, y la otra para la derecha.
 ....................................................................................................................................
 
-### RETO III: ¿ En qué tipo de datos podrías expresar la información de la estructura
-terciaria proteica?
+### RETO III: ¿ En qué tipo de datos podrías expresar la información de la estructura terciaria proteica?
 
 Si no entendí mal, lo mismo. Dado que se conectan en las puntas entre las hlice alfa y hojas plegadas. Me falta entender como representar las interacciones y repulsiones entre esas estructuras secundarias, que provocan esas "formas" en el espacio.
 
 -------------------------------------------------------------------------------------------------------------------------------------
 
-### RETO IV: Rosalind Franklin es una científica muy relevante, que tuvo menos reconocimiento del merecido. 
-¿Cuáles fueron sus contribuciones en este campo?
+### RETO IV: Rosalind Franklin es una científica muy relevante, que tuvo menos reconocimiento del merecido. ¿Cuáles fueron sus contribuciones en este campo?
+
 Propuso la estructura del ADN, basada en imágenes de la molécula a través de la técnica de disfracción de rayos x.
 
 ¿Qué nos cuenta su historia acerca del mundo de la ciencia?
 Machismo es la palabra que lo resume. Pero también esta frase me parece interesante "Así es de enigmático a veces el lenguaje científico, además de ser un ejemplo impagable de cómo subestimar el trabajo de otro" a pesar de no saberlo facticamente, es lo que se desprende.
 
 -------------------------------------------------------------------------------------------------------------------------------------
+### RETO V: Proponé en pseudocódigo un programa que prediga la estructura secundaria que adoptará cada residuo de la secuencia proteica dada, especificandola como H (si es una hélice), B (si es una hoja beta plegada) y L (si es un bucle o loop).
+
+PREGUNTAS DISPARADORAS: ¿Qué inputs tendría tu programa? ¿De qué modo se te
+ocurre configurar el output?
+
+Teniendo en cuenta la tabla de preferencias de los aminoácidos con cada estructura secundaria,..
