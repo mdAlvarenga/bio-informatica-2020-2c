@@ -1,3 +1,5 @@
+Link al tp que hicimos en grupo: https://github.com/leavalos/bioinformatica/tree/master/entrega2
+
 # bio-informatica-2020-2c
 Repo para la materia de Introducción a la Bioinformática de la UNQ
 
@@ -16,18 +18,6 @@ https://www.conicet.gov.ar/ubiquitina-la-importancia-de-las-pequenas-cosas/ Leye
 ### - ¿Qué información nos provee esta página?
 
 Nos provee información sobre las formas 3D de proteínas, ácidos nucleicos y conjuntos complejos que ayuda a estudiantes e investigadores a comprender todos los aspectos de la biomedicina y la agricultura, desde la sintesis de proteínas hasta la salud y enfermedad. 
-
-
-Link al tp que hicimos en grupo: https://github.com/leavalos/bioinformatica/tree/master/entrega2
-
-
-
-
-
-
-
-
-
 ............................
 ### - ¿Cómo se determinó la estructura de esta proteína?
 
